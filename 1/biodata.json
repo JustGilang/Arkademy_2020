@@ -1,0 +1,23 @@
+{ 
+	"name"  				:  "Gilang", 
+	"age"  					:  21, 		
+	"address"   			:  "Kaliwungu, Kendal.",
+	"hobbies"				: ["coding", "gaming"],
+	"is_married" 			: false,
+	"list_school" 			: [
+		{"name" : "SDN 1 Sumberejo", "year_in" :2007, "year_out": 2012, "major" : "null"},
+		{"name" : "SMP N 2 Kendal", "year_in" :2012, "year_out" :2014, "major" : "null"},
+		{"name" : "SMK N 4 Kendal", "year_in" :2014, "year_out" :2016, "major" : "Rekayasa Perngkat Lunak"},
+		{"name" : "UNIVERSITAS SIKUBANK SEMARANG", "year_in" :2016, "year_out" :2020, "major" :"Sistem Informasi"}
+	],
+	"skills" 				: [
+		{"skill_name" : "HTML", "level" :"expert"},
+		{"skill_name" : "JS", "level" :"beginner"},
+		{"skill_name" : "CSS", "level" :"advance"},
+		{"skill_name" : "PHP", "level" :"advance"},
+		{"skill_name" : "UI / UX Designer", "level" :"advance"},
+		{"skill_name" : "ADOBE XD", "level" :"advance"},
+		{"skill_name" : "LARAVEL", "level" :"beginner"}
+	],
+	"interest_in_coding"	: true
+}
